@@ -1,0 +1,8 @@
+h1, h2 {
+  color: #f351b0;
+}
+
+.profile-img {
+  max-width: 220px;
+  border-radius: 50%;
+}
